@@ -1,0 +1,40 @@
+# Compiled Binaries
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# Qt Creator/CLion/CMake files
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Qt UI-generated files
+moc_*
+ui_*
+qrc_*
+
+# Build directories
+build/
+bin/
+dist/
+
+# Log files
+*.log
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.swp
