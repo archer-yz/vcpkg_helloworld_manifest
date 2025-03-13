@@ -42,4 +42,4 @@ The following CMake variables are defined in *CMakePresets.json* for triplet ove
 }
 ```
 
-"MultiThreaded" should be used for **CMAKE_MSVC_RUNTIME_LIBRARY** in *debug* build.
+"MultiThreadedDebug" should be used for **CMAKE_MSVC_RUNTIME_LIBRARY** in *debug* build.
